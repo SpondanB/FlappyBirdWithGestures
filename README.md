@@ -7,4 +7,12 @@ But soon it was clear that it would be a lot more tedious to work on. So we deci
 <br>
 <br>
 We made 3 test programs to check if the idea is feasible or not. They are HandTracking.py , FlappyBird.py and TestGestureClicker.py. 
+<br><br>
+## Functioning Code
+main.py - Flappy Bird with Gesture controls.
+<br><br>
+FlappyBird.py - Normal FlappyBird Game with keyboard controls.
 <br>
+HandTracking.py - To implement a hand tracking program which also draws the landmarks.
+<br>
+TestGestureClicker.py - To implement a gesture clicking program which prints click every time the clicking gesture is done.
