@@ -136,7 +136,6 @@ This project highlights the intersection of:
 ---
 
 ## 🔮 Future Improvements
-- Gesture calibration for different hand sizes
 - Difficulty scaling based on reaction time
 - Support for multiple gestures (pause, restart)
 - Improved robustness under varying lighting conditions
