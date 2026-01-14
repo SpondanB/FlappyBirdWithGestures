@@ -6,7 +6,7 @@ cap = cv2.VideoCapture(0)
 
 # initiallizing all the mediapipe solutions needed
 hands = mp.solutions.hands
-hands_mesh = hands.Hands(static_image_mode=True, min_detection_confidence=0.7)
+hands_mesh = hands.Hands(static_image_mode=True, min_detection_confidence=0.7) # the min detection confidence can be updated as needed
 draw = mp.solutions.drawing_utils
 
 # reads the frame and the return the value that the camera is working or not
@@ -33,3 +33,4 @@ while ret:
         cap.release()
         break
     
+
